@@ -23,7 +23,7 @@
 	<th>Weight: 56lbs</th>
 </tr>
 </table>
-
+	<summary>Adrianos Inc. Copyright 2019-2020</summary>
 </html>
 </body>
 </strong>
