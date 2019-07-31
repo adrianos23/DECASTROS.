@@ -7,6 +7,9 @@
 <h1><b>My Profile</b></h1>
 <img src="adrianos.jpg" width="200" height="260">
 <p>My name is Adrian Paolo, I love many things and one of them is computers</p>
+	<article>Myself
+	<p>I am born in May 9, 1999</p>
+		</article>
 <ol><h3>Favorite Movies</h3>
 <li><i>Interstellar</i></li>
 <li><u>John Wick</u></li>
@@ -23,7 +26,7 @@
 	<th>Weight: 56lbs</th>
 </tr>
 </table>
-	<summary>Adrianos Inc. Copyright 2019-2020</summary>
+	<summary><br>Adrianos Inc. Copyright 2019-2020</br></summary>
 </html>
 </body>
 </strong>
