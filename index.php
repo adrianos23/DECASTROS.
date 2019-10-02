@@ -19,11 +19,11 @@ function check(form)/*function to check userid & password*/
  /*the following code checkes whether the entered userid and password are matching*/
  if(form.userid.value == "adrianos" && form.pswrd.value == "pass")
   {
-    window.open('rockpapersis.php')/*opens the target page while Id & password matches*/
+    window.open('game.php')/*opens the target page while Id & password matches*/
   }
  else
  {
-   alert("Error Password or Username")/*displays error message*/
+   alert("Error Password or Username")
   }
 }
 </script>
