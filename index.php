@@ -18,7 +18,7 @@ function check(form)
 {
  if(form.userid.value == "adrianos" && form.pswrd.value == "pass")
   {
-    window.open('game.php')
+    location="game.php";
   }
  else
  {
