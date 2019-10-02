@@ -11,12 +11,12 @@ Login Page
 <form name="login"><br/>
 Username<input type="text" name="userid"/><br/>
 Password<input type="password" name="pswrd"/><br/><br/>
-<input type="button" onclick="check(this.form)" value="Login"/>
+<a href="game.php" input type="button" onclick="check(this.form)" value="Login"/>
+                                                                               </a>
 </form>
 <script language="javascript">
-function check(form)/*function to check userid & password*/
+function check(form)
 {
- /*the following code checkes whether the entered userid and password are matching*/
  if(form.userid.value == "adrianos" && form.pswrd.value == "pass")
   {
     window.open('game.php')/*opens the target page while Id & password matches*/
