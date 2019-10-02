@@ -11,8 +11,7 @@ Login Page
 <form name="login"><br/>
 Username<input type="text" name="userid"/><br/>
 Password<input type="password" name="pswrd"/><br/><br/>
-<a href="game.php" input type="button" onclick="check(this.form)" value="Login"/>
-                                                                               </a>
+<input type="button" onclick="check(this.form)" value="Login"/>
 </form>
 <script language="javascript">
 function check(form)
