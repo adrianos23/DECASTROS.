@@ -9,8 +9,8 @@
 Login Page
 </h1>
 <form name="login"><br/>
-Username<input type="text" name="userid"/><br/>
-Password<input type="password" name="pswrd"/><br/><br/>
+Username: <input type="text" name="userid"/><br/>
+Password: <input type="password" name="pswrd"/><br/><br/>
 <input type="button" method="post" onclick="check(this.form)" value="Login"/>
 </form>
 <script language="javascript">
