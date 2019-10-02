@@ -22,7 +22,7 @@ function check(form)
   }
  else
  {
-   alert("Incorrect Password or Username")
+   alert("Incorrect Password, please try again!")
   }
 }
 </script>
