@@ -18,11 +18,11 @@ function check(form)
 {
  if(form.userid.value == "adrianos" && form.pswrd.value == "pass")
   {
-    window.open('game.php')/*opens the target page while Id & password matches*/
+    window.open('game.php')
   }
  else
  {
-   alert("Error Password or Username")
+   alert("Incorrect Password or Username")
   }
 }
 </script>
