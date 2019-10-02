@@ -4,6 +4,13 @@
 <title>Login page</title>
 </head>
 <body>
+ h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
 <center>
 <h1 style="font-family:Comic Sans Ms;text-align="center";font-size:20pt; color:#00FF00;>
 Login Page
