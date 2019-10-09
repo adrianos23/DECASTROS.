@@ -60,14 +60,6 @@ img {
 <h1>DeCastroA Free HD Wallpaper</h1>
 	<p>Download Free Wallpapers with any platforms</p>
 	<img src="view.jpg" align="right" alt="Mountain View" width="500" height="350">
-	<h2>List of Photos</h2>
-	<a href="#">Photo 1</a>
-	<br>
-	<a href="#">Photo 2</a>
-	<br>
-	<a href="#">Photo 3</a>
-	<br/>
-	<br/>
 	<br/>
 	</br>
 <h2>Wallpapers</h2>
